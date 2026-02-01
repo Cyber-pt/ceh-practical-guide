@@ -29,7 +29,7 @@ ceh-practical-guide/
 ├── 05-covering-tracks/
 ├── 06-sniffing-monitoring/
 ├── 07-advanced-labs/
-└── README.md
+|── README.md
 
 
 ## 🧪 What Each Lab Contains
@@ -44,7 +44,6 @@ Each lab folder includes:
 - Security impact
 - Prevention & mitigation techniques
 
----
 
 ## 🛠 Tools & Technologies Used
 
