@@ -23,5 +23,5 @@ WHOIS data exposes infrastructure and registration information which can help at
 
 ### 📸 Evidence
 
-![WHOIS Output](screenshots/whois1.png)  
-![WHOIS Details](screenshots/whois2.png)
+![WHOIS Output](whois1.png)  
+![WHOIS Details](whois2.png)
