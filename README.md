@@ -22,13 +22,13 @@ including reconnaissance, exploitation, post-exploitation, and defense technique
 
 ceh-practical-guide/
 │
-├── ![01-reconnaissance](01-reconnaissance/)
-├── ![02-scanning-enumeration](02-scanning-enumeration/)
-├── ![03-gaining-access](03-gaining-access/)
-├── ![04-maintaining-access](04-maintaining-access/)
-├── ![05-covering-tracks](05-covering-tracks/)
-├── ![06-sniffing-monitoring](06-sniffing-monitoring/)
-├── ![07-advanced-labs](07-advanced-labs/)
+├── [01-reconnaissance](01-reconnaissance/)
+├── [02-scanning-enumeration](02-scanning-enumeration/)
+├── [03-gaining-access](03-gaining-access/)
+├── [04-maintaining-access](04-maintaining-access/)
+├── [05-covering-tracks](05-covering-tracks/)
+├── [06-sniffing-monitoring](06-sniffing-monitoring/)
+├── [07-advanced-labs](07-advanced-labs/)
 |── README.md
 
 
