@@ -22,8 +22,8 @@ including reconnaissance, exploitation, post-exploitation, and defense technique
 
 ceh-practical-guide/
 │
-├── 01-reconnaissance/
-├── 02-scanning-enumeration/
+├── ![recon-lab](01-reconnaissance/)
+├── ![](02-scanning-enumeration/)
 ├── 03-gaining-access/
 ├── 04-maintaining-access/
 ├── 05-covering-tracks/
