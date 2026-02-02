@@ -10,10 +10,11 @@ To perform DNS enumeration to discover DNS records and infrastructure details of
 1. Selected a target domain (example.com)  
 2. Queried DNS records using nslookup  
 3. Retrieved detailed DNS info using dig  
-4. Enumerated possible DNS data using dnsrecon  
+4. Enumerated possible DNS data using dnsrecon
+5. Attempted DNS zone transfer using dig axfr
 
 ## ✅ Result
-Successfully identified DNS servers and records associated with the target domain.
+Successfully identified DNS servers and records associated with the target domain and confirmed that zone transfer is restricted on the target domain.
 
 ## ⚠️ Security Impact
 Exposed DNS records reveal network structure which attackers can use for further attacks.
@@ -29,3 +30,4 @@ Exposed DNS records reveal network structure which attackers can use for further
 ![DNS Records](dns-recon2.png)
 ![DNS Lookup](dns-recon3.png)  
 ![DNS Records](dns-recon4.png)
+![DNS Records](dns-recon5.png)
