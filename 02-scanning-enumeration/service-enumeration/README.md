@@ -28,4 +28,4 @@ Outdated or vulnerable service versions can be exploited to gain unauthorized ac
 ![Aggressive Scan Output](service3.png)
 ![Aggressive Scan Output](service4.png)
 ![Aggressive Scan Output](service5.png)
-![Aggressive Scan Output](service5.png)
+![Aggressive Scan Output](service6.png)
