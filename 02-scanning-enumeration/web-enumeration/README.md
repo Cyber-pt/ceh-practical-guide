@@ -30,5 +30,3 @@ Exposed directories and admin panels can be exploited to gain unauthorized acces
 ![Dirb Results](web3.png) 
 ![Dirb Results](web4.png) 
 ![Gobuster Results](web5.png)
-![Gobuster Results](web6.png)
-![Gobuster Results](web7.png)
